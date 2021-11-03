@@ -1,0 +1,27 @@
+.w3-row {
+    width: 1100px;
+    margin: 0 auto;
+    padding: 64px 0 64px 0;
+}
+.w3-col1 {
+    display: inline-block;
+    width: 500px;
+    padding: 5px;
+}
+.w3-img2 {
+    max-width: 100%;
+}
+.w3-padding  {
+    float: left;
+    padding: 12px 24px;
+}
+.content {
+    width: 45.5999%;
+    height: auto;
+    line-height: 1.5;
+}
+.w3-clearfix {
+    content: "";
+    clear: both;
+    display: table;
+}
